@@ -6,27 +6,22 @@ import Expenses from "./components/Expenses/Expenses";
 const DUMMY_EXPENSES = [
   {
     id: "e1",
-    title: "Car Insurance1",
-    amount: 294.61,
-    date: new Date(2021, 2, 1),
+    title: "Toilet Paper",
+    amount: 94.12,
+    date: new Date(2020, 7, 14),
   },
-  {
-    id: "e2",
-    title: "Car Insurance2",
-    amount: 294.62,
-    date: new Date(2019, 2, 2),
-  },
+  { id: "e2", title: "New TV", amount: 799.49, date: new Date(2021, 2, 12) },
   {
     id: "e3",
-    title: "Car Insurance3",
-    amount: 294.63,
-    date: new Date(2020, 2, 3),
+    title: "Car Insurance",
+    amount: 294.67,
+    date: new Date(2021, 2, 28),
   },
   {
     id: "e4",
-    title: "Car Insurance55",
-    amount: 294.64,
-    date: new Date(2019, 2, 4),
+    title: "New Desk (Wooden)",
+    amount: 450,
+    date: new Date(2021, 5, 12),
   },
 ];
 
